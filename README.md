@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Annapurna-Rudagi
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning in bca
+- 🌱 I’m currently learning in mca
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...call or email
 - 😄 Pronouns: ...
